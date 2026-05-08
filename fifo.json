@@ -1,6 +1,6 @@
 {
   "name": "FIFO",
-  "app_enabled": false,
+  "app_enabled": true,
   "min_version": "1.0.0",
   "message": "Sistema disponível"
 }
